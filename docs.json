@@ -1,35 +1,100 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Kibu Documentation",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#0D9373",
     "light": "#07C983",
-    "dark": "#15803D"
+    "dark": "#0D9373"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.png",
   "navigation": {
     "tabs": [
       {
         "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Getting Started",
             "pages": [
               "introduction",
               "quickstart",
-              "development"
+              "getting_started_with_kibu_logging_in_and_accessing_the_dashboard",
+              "navigating_the_kibu_interface_dashboard_and_navigation_elements"
+            ]
+          },
+          {
+            "group": "Groups Management",
+            "pages": [
+              "managing_groups_in_kibu_accessing_and_navigating_group_pages",
+              "customizing_group_settings_and_permissions",
+              "managing_participant_profiles_and_group_memberships",
+              "communicating_with_group_members_sending_notifications"
+            ]
+          },
+          {
+            "group": "Appointments & Events",
+            "pages": [
+              "creating_and_managing_appointments_and_events",
+              "advanced_scheduling_managing_recurring_events_and_reminders",
+              "managing_participant_attendance_marking_present_or_absent"
+            ]
+          },
+          {
+            "group": "Service Records",
+            "pages": [
+              "working_with_service_records_viewing,_creating,_and_editing",
+              "sorting_and_filtering_service_records",
+              "managing_files_and_documents_within_groups"
+            ]
+          },
+          {
+            "group": "Advanced Features",
+            "pages": [
+              "using_advanced_features_the_magic_pen_and_automated_documentation",
+              "data_handling_importing,_exporting,_and_searching",
+              "utilizing_reports_and_analytics",
+              "integrations_with_other_tools_and_systems"
+            ]
+          },
+          {
+            "group": "Account & Settings",
+            "pages": [
+              "account_management_user_profiles_and_permissions",
+              "customizing_the_interface_personal_preferences_and_accessibility",
+              "billing,_subscription,_and_pricing_information"
+            ]
+          },
+          {
+            "group": "API Reference",
+            "pages": [
+              "api-reference/introduction",
+              {
+                "group": "Endpoints",
+                "pages": [
+                  "api-reference/endpoint/create",
+                  "api-reference/endpoint/get",
+                  "api-reference/endpoint/delete",
+                  "api-reference/endpoint/webhook"
+                ]
+              }
             ]
           },
           {
             "group": "Essentials",
             "pages": [
+              "essentials/settings",
               "essentials/markdown",
               "essentials/code",
               "essentials/images",
-              "essentials/settings",
               "essentials/navigation",
               "essentials/reusable-snippets"
+            ]
+          },
+          {
+            "group": "Development",
+            "pages": [
+              "development",
+              "troubleshooting_and_error_handling"
             ]
           }
         ]
@@ -75,10 +140,7 @@
       ]
     }
   },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
+  "logo": "/logo.png",
   "navbar": {
     "links": [
       {
