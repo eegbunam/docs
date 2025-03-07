@@ -1,0 +1,115 @@
+# Communicating with Group Members: Sending Notifications
+
+This topic explains how to communicate effectively with group members by sending email notifications and messages directly through Kibu.
+
+---
+
+## Accessing the 'Communication' Tab
+
+The **Communication** tab allows you to send messages and notifications to all members and administrators of your group. Accessing this tab is the first step in communicating through Kibu.
+
+### Steps to Access the Communication Tab
+
+✅ **Navigate to the Day Habilitation group:**
+
+1. On the left sidebar, under **My Groups**, click on **Day Habilitation** 🏖️.
+2. This will take you to the Day Habilitation group's main page.
+
+✅ **Open the Communication tab:**
+
+1. At the top of the group's page, you'll see a row of tabs.
+2. Click on the **Communication** tab located next to **Events** and **Files**.
+
+*The Communication tab is where you can compose and send messages to your group members.*
+
+---
+
+## Composing Email Notifications
+
+Composing email notifications allows you to inform group members about important updates, events, or announcements.
+
+### Steps to Compose an Email Notification
+
+✅ **Start a new message:**
+
+1. Under the **Send an email notification** banner, you'll find the email composition section.
+2. Click on the **Subject** field and type in the subject of your email.
+
+   *Example:*  
+   - **Subject**: Upcoming Schedule Changes
+
+3. In the large text area below, type your message.
+
+   *Example:*  
+   - **Message**:  
+     *Dear Team,*  
+     Please be informed about the upcoming schedule changes for next week.
+
+✅ **Format your message:**
+
+- Use the formatting tools above the text area:
+  - **B** for **bold text**
+  - *I* for *italic text*
+  - **U** for 
+
+underline
+
+- Organize information using:
+  - Bullet points
+  - Numbered lists
+
+*Formatting helps emphasize key information and improves readability.*
+
+---
+
+## Formatting Messages and Using the Preview Feature
+
+Kibu's messaging platform provides formatting options and a preview feature to ensure your messages are clear and professional.
+
+### Formatting Your Message
+
+✅ **Enhance your message with formatting tools:**
+
+- **Bold** important dates or actions.
+- *Italicize* names or titles.
+- Use bullet points for lists:
+  - Meeting agendas
+  - Event details
+- Use numbered lists for steps or instructions:
+  1. Complete your timesheets.
+  2. Submit them by Friday.
+
+*Proper formatting highlights crucial information for your readers.*
+
+### Using the Preview Feature
+
+✅ **Preview your message before sending:**
+
+1. As you type, the **Preview** section on the right displays how your email will appear to recipients.
+2. Review the preview to check:
+   - Formatting
+   - Spelling and grammar
+   - Overall layout
+
+*The preview helps you ensure your message looks professional and error-free.*
+
+---
+
+## Sending Messages to All Members and Admins
+
+After composing and reviewing your message, you're ready to send it to your group.
+
+### Steps to Send the Notification
+
+✅ **Send your message:**
+
+1. Once you're satisfied with your email, click the **Send** button ✅ at the bottom of the composition area.
+2. A confirmation prompt may appear; confirm that you want to send the message.
+
+*Your email notification will be sent to all members and admins of the Day Habilitation group.*
+
+---
+
+*By effectively using the Communication tab, you can keep your group informed and engaged. Next, explore how to manage events with your group members.*
+
+---
